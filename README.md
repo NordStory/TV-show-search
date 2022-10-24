@@ -6,3 +6,7 @@
 
  ## About
  In this application you can find yourself an interesting show!
+
+
+Site is live at 
+> https://nordstory.github.io/TV-show-search/
